@@ -1,0 +1,10 @@
+C:\Users\Ivan Laptop\Desktop\tugas prak pv 1\otto\obj\Debug\otto.csproj.AssemblyReference.cache
+C:\Users\Ivan Laptop\Desktop\tugas prak pv 1\otto\obj\Debug\otto.Form1.resources
+C:\Users\Ivan Laptop\Desktop\tugas prak pv 1\otto\obj\Debug\otto.Properties.Resources.resources
+C:\Users\Ivan Laptop\Desktop\tugas prak pv 1\otto\obj\Debug\otto.csproj.GenerateResource.cache
+C:\Users\Ivan Laptop\Desktop\tugas prak pv 1\otto\obj\Debug\otto.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Laptop\Desktop\tugas prak pv 1\otto\bin\Debug\otto.exe.config
+C:\Users\Ivan Laptop\Desktop\tugas prak pv 1\otto\bin\Debug\otto.exe
+C:\Users\Ivan Laptop\Desktop\tugas prak pv 1\otto\bin\Debug\otto.pdb
+C:\Users\Ivan Laptop\Desktop\tugas prak pv 1\otto\obj\Debug\otto.exe
+C:\Users\Ivan Laptop\Desktop\tugas prak pv 1\otto\obj\Debug\otto.pdb
